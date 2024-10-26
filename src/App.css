@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+h1 {
+  font-family: Poppins;
+  margin-top: 10px;
+  color: crimson;
+  font-size: 25px;
+}
+
+h2 {
+  font-family: Poppins;
+  margin-top: 10px;
+  color: chartreuse;
+  font-size: 25px;
+}
+
+h3 {
+  font-family: Poppins;
+  margin-top: 10px;
+  font-size: 25px;
+  color: blueviolet;
+}
+
+h4 {
+  font-size: 25px;
+  font-family: Poppins;
+  margin-top: 10px;
+  color: cadetblue;
+}
+
+p {
+  font-size: 25px;
+  font-family: Poppins;
+  margin-top: 10px;
+  color: brown;
+  font-weight: bold;
+}
+
+.nota {
+  font-size: 25px;
+  color: coral;
+}
+
+.desconto {
+  font-size: 25px;
+  font-family: Poppins;
+  margin-top: 10px;
+  font-weight: bold;
+  color: blue;
+}
+
+.online {
+  font-size: 25px;
+  font-family: Poppins;
+  margin-top: 10px;
+  font-weight: bold;
+  color: chocolate;
+  margin-top: 10px;
+}
+
+.nivel {
+  font-size: 25px;
+  font-family: Poppins;
+  margin-top: 10px;
+  font-weight: bold;
+  color: darkblue;
+  margin-top: 10px;
+}
+
+.button,
+.button-2 {
+  background-color: black;
+  margin: 5px;
+  width: 150px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  font-size: 20px;
+}
+
+.text-button {
+  margin: 0;
+  line-height: 40px;
+  color: aliceblue;
+}
